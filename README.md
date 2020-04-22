@@ -17,6 +17,4 @@ Visão Geral do Programa: O programa possui 10 semanas onde foram desenvolvidos 
 <ol> 
   <strong><li></strong> [Desafio 1]: Nesta semana tivemos como desafio realizar uma análise com dados do black friday.</li>
 <ol>
-
- 
-  1. [Desafio 1]: Nesta semana tivemos como desafio realizar uma análise com dados do black friday.</li>
+1. [Desafio 1]: Nesta semana tivemos como desafio realizar uma análise com dados do black friday.</li>
