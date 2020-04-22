@@ -6,7 +6,7 @@ Neste repositório poderão ser identicadas todas as informações a respeito do
 
 ### Tema: Prever a nota de matemática para o Enem de 2016.
 
-O notebook desenvolvido para acessar este desafio, bem como o detalhamento dos passos executados poderão ser encontrados aqui: Desafio Enem.
+O notebook desenvolvido para acessar este desafio, bem como o detalhamento dos passos executados poderão ser encontrados aqui: [Desafio Enem].
 
 Cabe ressaltar que após a aprovação no desafio foi iniciado o bootcampo, que estão descritos nos tópicos abaixo.
 
