@@ -1,3 +1,5 @@
+<img width="184" alt="logo" src="https://user-images.githubusercontent.com/8771239/80003862-014de900-8498-11ea-83cd-9ab17bffe417.png">
+
 # Bootcamp Codenation - Data Science
 
 Neste repositório poderão ser identicadas todas as informações a respeito do programa de aceleração focado em data science fornecido pela [Codenation](https://codenation.dev/). Abaixo é possível visualizar todos os desafios que realizei durante o bootcamp bem como o projeto que desenvolvi para poder fazer do curso.
