@@ -4,5 +4,5 @@ Neste repositório poderão ser identicadas todas as informações a respeito do
 
 # Desafio para poder participar do Bootcamp.
 
-## Tema: Prever a nota de matemática para o Enem de 2016.
+### Tema: Prever a nota de matemática para o Enem de 2016.
 
