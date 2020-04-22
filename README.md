@@ -14,4 +14,4 @@ Cabe ressaltar que após a aprovação no desafio foi iniciado o bootcampo, que 
 
 Visão Geral do Programa: O programa possui 10 semanas onde foram desenvolvidos estudos acerca dos principais tópicos que permeia área de ciência de dados tais como: Python, estatistica, machine learning. Além disso, foram desenvolvidos desafios semanais que estão listados nos tópicos abaixo:
 
-1. [Desafio 1](https://codenation.dev/): Nesta semana tivemos como desafio realizar uma análise com dados do black friday.</li>
+1. [Desafio 1](https://github.com/rafaelpds/Codenation/blob/master/Desafios/Desafio_1): Nesta semana tivemos como desafio realizar uma análise com dados do black friday.</li>
