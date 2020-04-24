@@ -9,7 +9,6 @@ Queremos conhecer melhor nossos clientes por estado. Para isso, iniciamos uma an
 Neste desafio foram abordados os seguintes tópicos:
 
  Média
- 
  Mediana
  
  Moda
