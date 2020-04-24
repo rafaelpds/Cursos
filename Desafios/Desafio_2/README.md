@@ -10,9 +10,7 @@ Neste desafio foram abordados os seguintes tópicos:
 
 - Média
 - Mediana
- 
- Moda
- 
- Desvio padrão
+- Moda
+- Desvio padrão
  
  A submissão do arquivo foi através de um json.
