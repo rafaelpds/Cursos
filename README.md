@@ -20,6 +20,6 @@ Visão Geral do Programa: O programa possui 10 semanas onde foram desenvolvidos 
 2. [Desafio 2](https://github.com/rafaelpds/Codenation/blob/master/Desafios/Desafio_2): Nesta semana tivemos como desafio realizar uma análise de uma base de créditos e identificar os dados estatísticos para cada um dos estados presentes na base.</li>
 3. [Desafio 3](https://github.com/rafaelpds/Codenation/tree/master/Desafios/Desafio_3): Nesta semana tivemos como desafio praticar nossos conhecimentos sobre distribuições de probabilidade. Para isso, foi dividido o desafio em duas partes:
 
-  - A primeira parte contará com 3 questões sobre um *data set* artificial com dados de uma amostra normal e
+  - A primeira parte contou com 3 questões sobre um *data set* artificial com dados de uma amostra normal e
     uma binomial.
   - A segunda parte será sobre a análise da distribuição de uma variável do _data set_ [Pulsar Star](https://archive.ics.uci.edu/ml/datasets/HTRU2), contendo 2 questões.
