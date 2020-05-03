@@ -12,8 +12,8 @@ Esse data set consiste de 8 variáveis a respeito de 17.898 observações de est
 
 ### Tópicos explorados:
 
- Probabilidade
- Estatística
- NumPy
- SciPy
- StatsModels
+ - Probabilidade
+ - Estatística
+ - NumPy
+ - SciPy
+ - StatsModels
