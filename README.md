@@ -22,3 +22,4 @@ Visão Geral do Programa: O programa possui 10 semanas onde foram desenvolvidos 
 - A primeira parte contou com 3 questões sobre um *data set* artificial com dados de uma amostra normal e
     uma binomial.
 - A segunda parte será sobre a análise da distribuição de uma variável do _data set_ [Pulsar Star](https://archive.ics.uci.edu/ml/datasets/HTRU2), contendo 2 questões.
+4. [Desafio 4](https://github.com/rafaelpds/Codenation/blob/master/Desafios/Desafio_4): Nesta semana tivemos como desafio praticar nossos conhecimentos sobre distribuições de probabilidade. Para isso, foi dividido o desafio em duas partes:.</li>
