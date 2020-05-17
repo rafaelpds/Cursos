@@ -23,3 +23,4 @@ Visão Geral do Programa: O programa possui 10 semanas onde foram desenvolvidos 
     uma binomial.
 - A segunda parte será sobre a análise da distribuição de uma variável do _data set_ [Pulsar Star](https://archive.ics.uci.edu/ml/datasets/HTRU2), contendo 2 questões.
 4. [Desafio 4](https://github.com/rafaelpds/Codenation/blob/master/Desafios/Desafio_4): Nesta semana tivemos como desafio praticar praticar os conhecimento sobre testes de hipóteses, um dos conceitos centrais da inferência estatística e de toda pesquisa que utiliza estatística como suporte.</li>
+5. [Desafio_5](https://github.com/rafaelpds/Codenation/blob/master/Desafios/Desafio_5): Nesta semana tivemos como desafio praticar os conhecimento sobre redução de dimensionalidade e seleção de variáveis.
