@@ -10,7 +10,7 @@ Neste repositório poderão ser identicadas todas as informações a respeito do
 
 O notebook desenvolvido para acessar este desafio, bem como o detalhamento dos passos executados poderão ser encontrados aqui: [Desafio Enem](https://github.com/rafaelpds/Codenation/tree/master/Desafios/Desafio_0).
 
-Cabe ressaltar que após a aprovação no desafio foi iniciado o bootcampo, que estão descritos nos tópicos abaixo.
+Cabe ressaltar que após a aprovação no desafio foi iniciado o programa de aceleração, que estão descritos nos tópicos abaixo.
 
 ## Desafios do Bootcamp da Codenation
 
