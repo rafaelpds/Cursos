@@ -2,4 +2,4 @@
 
 # Crusos
 
-### Esse repositório contém estudos e projetos desenvolvidos durante cursos e bootcamps.
+### Esse repositório contém estudos e projetos desenvolvidos durante cursos.
